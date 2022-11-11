@@ -5,7 +5,7 @@
 const config = {
     name: "Eh Nabella Novia Putri", // actual name of the recipient (Mandatory)
 
-    nickname: "Buddy", // nickname(optional)
+    nickname: "Nabella Novia Putri", // nickname(optional)
 
     pic: "", //image url of recipients (Mandatory)
 
